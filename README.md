@@ -21,7 +21,3 @@
 <div>
 Let me Introduce my self, Im Rafi Fadhlurokhman a student looking for experience and strength to save cats 🐱. JK hehe 😆. Currently I am studying at the Muhammadiyah University of Jakarta in the informatics engineering study program 🧑‍🎓. I'm currently learning Javascript and React JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="vscode" width="45" height="45"/>
 </div>
-
-
-<h1> Curently Stats 🔥</h1>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafifadhlu)](https://git.io/streak-stats)
