@@ -1,6 +1,6 @@
 
 <div align="center" display="flex" flex-direction="column">
-  <h1>Welcome son! 🙌</h1>
+  <h1>Welcome guys! 🙌</h1>
 </div>
 
 
